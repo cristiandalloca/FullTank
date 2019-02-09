@@ -3,8 +3,12 @@
     <string name="title_activity_main2">FullTank</string>
     <string name="navigation_drawer_open">Abrir menu</string>
     <string name="navigation_drawer_close">Fechar menu</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">FullTank</string>
+    <string name="nav_header_subtitle">fulltank@fulltank.com.br</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Configurações</string>
+    <string name="nav_menu_car">Veículos</string>
+    <string name="nav_menu_config">Configurações</string>
+    <string name="nav_menu_sair">Sair</string>
+    <string name="nav_menu_info">Sobre</string>
 </resources>
